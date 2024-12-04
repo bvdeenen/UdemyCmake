@@ -4,6 +4,11 @@
 
 #include "my_lib.h"
 
+/**
+ * @brief print hello world.
+ *
+ * does the real thing.
+ */
 void print_hello_world()
 {
     std::cout << "Hello World!\n";
